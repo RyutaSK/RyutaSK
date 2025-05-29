@@ -53,7 +53,7 @@ https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;bas
     <img src="https://i.imgur.com/78vVPUw.png" alt="RyutaSK-Darken" align="right" width="40%" height="40%">
   </div>
   <div align="left">
-    <li>Olá 👋🏻, me chamo <strong>Wilkner Gabriel. Sou Brasileiro e tenho 25 anos.</strong></li>
+    <li>Olá 👋🏻, me chamo <strong>Wilkner Gabriel. Sou Brasileiro e tenho 26 anos.</strong></li>
     <!--<li>No ambiente virutal atendo pelos Pseudônimos de "<strong>RyutaSK</strong>" e "<strong>Ryusei Orihar"</strong></li>-->
     <li>Sou uma pessoa bem reservada, mas bastante comunicativa e divertida<br> em determinados momentos.</li>
     <li>Por Hobby, costumo programar e dedicar meu tempo escrevendo, assim me auto intitulando de "<em>Escritor</em>", e criador da série de livros "<em>Os Celestiais</em>".</li>
