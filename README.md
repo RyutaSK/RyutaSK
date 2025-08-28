@@ -50,7 +50,7 @@ https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;bas
       <p><em>"Eu renasci dentre o Caos e as Cinzas, para liderar um Novo Alvorecer" — Athropos.</em></p>
   </div><hr>
   <div align="center">
-    <img src="https://i.imgur.com/78vVPUw.png" alt="RyutaSK-Darken" align="right" width="40%" height="40%">
+    <img src="https://i.imgur.com/HBilqew.jpeg" alt="RyutaSK-Darken" align="right" width="40%" height="40%">
   </div>
   <div align="left">
     <li>Olá 👋🏻, me chamo <strong>Wilkner Gabriel. Sou Brasileiro e tenho 26 anos.</strong></li>
