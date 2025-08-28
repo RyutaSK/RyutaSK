@@ -47,7 +47,7 @@ https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;bas
         <img src="https://img.shields.io/badge/Língua-pt_BR-green.svg">
         <img src="https://img.shields.io/badge/País-Brasil-yellow.svg">
       </h3>
-      <p><em>"Aquilo que é eterno deve ser preservado!" — RyutaSK.</em></p>
+      <p><em>"Eu renasci dentre o Caos e as Cinzas, para liderar um Novo Alvorecer" — Athropos.</em></p>
   </div><hr>
   <div align="center">
     <img src="https://i.imgur.com/78vVPUw.png" alt="RyutaSK-Darken" align="right" width="40%" height="40%">
